@@ -24,5 +24,17 @@
     "eslint-plugin-react-refresh": "^0.4.3",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awointa/gaming-subscription-app.git"
+  },
+  "author": "Awointa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Awointa/gaming-subscription-app/issues"
+  },
+  "homepage": "https://github.com/Awointa/gaming-subscription-app#readme"
 }
